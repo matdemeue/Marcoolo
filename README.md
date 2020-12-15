@@ -6,8 +6,6 @@ It's filled with colors I use on a daily base for my freelance clients and perso
 
 The added colors are in rgba format so they are fully adjustable.
 
-<br>
-
 ## Usage
 
 Install it from npm:

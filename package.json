@@ -1,6 +1,6 @@
 {
   "name": "marcoolo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple color palette...with easy integration in your SCSS",
   "main": "_marcoolo.scss",
   "repository": {
