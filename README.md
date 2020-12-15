@@ -28,3 +28,6 @@ p {
   color: marcoolo(oranges, pumpkin);
 }
 ```
+## For your information
+
+The name of this project is a contraction of "Marc" (in honor of my grandfather that passed away in 2017) and "colors". 
