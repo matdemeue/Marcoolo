@@ -1,0 +1,28 @@
+$marcoolo: (
+  blacks: (
+    charcoal: rgba(35, 61, 77, 1)
+  ),
+
+  oranges: (
+    pumpkin: rgba(254, 127, 45, 1)
+  ),
+
+  greens: (
+    olivine: rgba(161, 193, 129, 1)
+  ),
+
+  yellows: (
+   sunglow: rgba(252, 202, 70, 1)
+  ),
+
+  blues: (
+    polishedPine: rgba(97, 155, 138, 1)
+  ),
+);
+
+@function marcoolo($base-color, $tone: '') {
+  @return map-get(
+    map-get($marcoolo, $base-color),
+    $tone
+  );
+}

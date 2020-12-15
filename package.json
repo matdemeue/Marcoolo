@@ -1,0 +1,23 @@
+{
+  "name": "marcoolo",
+  "version": "1.0.0",
+  "description": "A simple color palette...with easy integration in your SCSS",
+  "main": "_marcoolo.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matdemeue/Marcoolo.git"
+  },
+  "keywords": [
+    "marcoolo",
+    "color",
+    "palette",
+    "sass",
+    "scss"
+  ],
+  "author": "Mathieu De Meue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matdemeue/Marcoolo/issues"
+  },
+  "homepage": "https://github.com/matdemeue/Marcoolo#readme"
+}
